@@ -144,7 +144,8 @@ public class libro {
 				+ numEjemplares + ", portada=" + portada + ", presentacion=" + presentacion + ", precio=" + precio
 				+ ", idCategoria=" + idCategoria + ", idAutor=" + idAutor + "]";
 	}
-	
+	 
+	//Cualquier cosa
 	
 	
 }

@@ -36,4 +36,18 @@ public class ClienteDAOimpl implements ClienteDAO {
 
 	}
 
+	@Override
+	public List<Cliente> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void del(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	//cambiooo
 }
